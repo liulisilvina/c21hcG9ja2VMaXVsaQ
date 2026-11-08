@@ -12,43 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Liuli =====
-[1]Liuli       |09:25:47 | 07-11-2026| login OK @liulisilvina | score=2860 rank=2789
-[1]Liuli       |09:25:47 | 07-11-2026| serverTime=2026-11-07T09:25:47.000Z local=2026-11-07T09:25:47.374Z
+[1]Liuli       |08:23:18 | 08-11-2026| login OK @liulisilvina | score=2920 rank=2652
+[1]Liuli       |08:23:18 | 08-11-2026| serverTime=2026-11-08T08:23:18.000Z local=2026-11-08T08:23:18.982Z
 --> [1]Liuli menjalankan: Claim Daily
-[1]Liuli       |09:25:48 | 07-11-2026| daily: OK +10 poin score=2870
---> [1]Liuli menjalankan: Auto All Tasks (5 pending)
-[1]Liuli       |09:25:50 | 07-11-2026| [1/5] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/liulisilvina/status/2118997782548713235
-[1]Liuli       |09:25:50 | 07-11-2026| delay 10s...
-[1]Liuli       |09:26:01 | 07-11-2026| [2/5] 3031f6f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/liulisilvina/status/2118998087063709923
-[1]Liuli       |09:26:01 | 07-11-2026| delay 10s...
-[1]Liuli       |09:26:14 | 07-11-2026| [3/5] 191dc55f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/liulisilvina/status/2118997972640693641
-[1]Liuli       |09:26:14 | 07-11-2026| delay 10s...
-[1]Liuli       |09:26:26 | 07-11-2026| [4/5] 3511b911 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/liulisilvina/status/2118997923576462249
-[1]Liuli       |09:26:26 | 07-11-2026| delay 10s...
-[1]Liuli       |09:26:38 | 07-11-2026| [5/5] 3c85a813 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/liulisilvina/status/2118998024146881989
-[1]Liuli       |09:26:38 | 07-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Liuli       |09:26:39 | 07-11-2026| [1/1] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118895980104015 | proof=https://x.com/liulisilvina/status/2118997924694524141
+[1]Liuli       |08:23:21 | 08-11-2026| daily: OK +10 poin score=2930
+--> [1]Liuli menjalankan: Auto All Tasks (4 pending)
+[1]Liuli       |08:23:23 | 08-11-2026| [1/4] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/liulisilvina/status/2119344665277881637
+[1]Liuli       |08:23:23 | 08-11-2026| delay 10s...
+[1]Liuli       |08:23:35 | 08-11-2026| [2/4] e0619629 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/liulisilvina/status/2119344670147728898
+[1]Liuli       |08:23:35 | 08-11-2026| delay 10s...
+[1]Liuli       |08:23:49 | 08-11-2026| [3/4] 260028a2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/liulisilvina/status/2119344800969999540
+[1]Liuli       |08:23:49 | 08-11-2026| delay 10s...
+[1]Liuli       |08:24:01 | 08-11-2026| [4/4] ceb22d73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/liulisilvina/status/2119344678015867599
+[1]Liuli       |08:24:01 | 08-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Liuli       |08:24:03 | 08-11-2026| [1/1] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119241378140217 | proof=https://x.com/liulisilvina/status/2119344565526195880
 --> [1]Liuli menjalankan: Watch Anime
-[1]Liuli       |09:26:40 | 07-11-2026| watch: semua video sudah completed
+[1]Liuli       |08:24:04 | 08-11-2026| watch: semua video sudah completed
 --> [1]Liuli menjalankan: Read Article
-[1]Liuli       |09:26:41 | 07-11-2026| news: 34/34 artikel selesai dibaca
-[1]Liuli       |09:26:42 | 07-11-2026| mint eligibility: {"userId":"2011429529190076417","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@liulisilvina","status":"submitted","revision":"f5f3677c-3fc9-4dfa-aad3-9f251c4d3
-[1]Liuli       |09:26:42 | 07-11-2026| news: semua artikel sudah dibaca
+[1]Liuli       |08:24:05 | 08-11-2026| news: 34/34 artikel selesai dibaca
+[1]Liuli       |08:24:06 | 08-11-2026| mint eligibility: {"userId":"2011429529190076417","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@liulisilvina","status":"submitted","revision":"f5f3677c-3fc9-4dfa-aad3-9f251c4d3
+[1]Liuli       |08:24:06 | 08-11-2026| news: semua artikel sudah dibaca
 --> [1]Liuli menjalankan: Quiz Anime
 --> [1]Liuli menjalankan: Music Missions (realtime, bisa lama!)
-[1]Liuli       |09:26:44 | 07-11-2026| music: kedua misi sudah tercapai, stop
-[1]Liuli       |09:26:45 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Liuli       |09:26:45 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Liuli       |09:26:45 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Liuli       |08:24:09 | 08-11-2026| music: kedua misi sudah tercapai, stop
+[1]Liuli       |08:24:09 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Liuli       |08:24:09 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Liuli       |08:24:09 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Liuli menjalankan: Claim Missions
-[1]Liuli       |09:26:45 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Liuli       |09:26:45 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Liuli       |09:26:45 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Liuli       |08:24:10 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Liuli       |08:24:10 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Liuli       |08:24:10 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Liuli menjalankan: Check Eligibility
 
 --- eligibility [1]Liuli ---
-  @liulisilvina | score=2860 rank=2789
-  tasks    [###-----------------] 1/6
+  @liulisilvina | score=2920 rank=2652
+  tasks    [#######-------------] 2/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -59,17 +57,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Liuli menjalankan: Read Manga
-[1]Liuli       |09:26:49 | 07-11-2026| manga: 0/13 chapter belum completed
+[1]Liuli       |08:24:14 | 08-11-2026| manga: 0/13 chapter belum completed
 --> [1]Liuli menjalankan: Get Gift
-[1]Liuli       |09:26:50 | 07-11-2026| gift: 3/9 belum diterima
-[1]Liuli       |09:26:51 | 07-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Liuli       |09:26:53 | 07-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Liuli       |09:26:56 | 07-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Liuli       |08:24:17 | 08-11-2026| gift: 3/9 belum diterima
+[1]Liuli       |08:24:19 | 08-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Liuli       |08:24:22 | 08-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Liuli       |08:24:24 | 08-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Liuli menjalankan: Setup Profile
-[1]Liuli       |09:26:59 | 07-11-2026| profile: bio="https://x.com/liulisilvina" fav=amato rewardAt=1791716688
-[1]Liuli       |09:26:59 | 07-11-2026| profile: bonus sudah diklaim, skip
+[1]Liuli       |08:24:27 | 08-11-2026| profile: bio="https://x.com/liulisilvina" fav=amato rewardAt=1791716688
+[1]Liuli       |08:24:27 | 08-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Liuli menjalankan: Bind Wallet
-[1]Liuli       |09:26:59 | 07-11-2026| wallet: sudah terikat EU8u5MAoYu... (solana)
+[1]Liuli       |08:24:27 | 08-11-2026| wallet: sudah terikat EU8u5MAoYu... (solana)
 
 == RINGKASAN ==
-- Liuli: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Liuli: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
